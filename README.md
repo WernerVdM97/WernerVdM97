@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👾
 
 - Junior Software Developer @ NoSoft 
 - MEng Industrial Research (Data Science) Graduate
