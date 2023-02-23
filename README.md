@@ -1,6 +1,6 @@
 ### About me 👾
 
-- Junior Software Developer @ NoSoft 
+- Software and Scada Engineer @ NoSoft 
 - MEng Industrial Research (Data Science) Graduate
 - BEng Electric and Electronic (Informatics) Graduate
 
