@@ -1,8 +1,8 @@
 ### About me 👾
 
 - Software and Scada Engineer @ NoSoft 
-- MEng Industrial Research (Data Science) Graduate
-- BEng Electric and Electronic (Informatics) Graduate
+- MEng Industrial Research (Data Science)
+- BEng Electric and Electronic (Informatics)
 
 ### Past Projects
 - Thesis   - 3 years  - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)
