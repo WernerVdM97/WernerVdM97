@@ -12,7 +12,7 @@
 | Name                                                                                                                          | Time Period |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Master's Published Thesis - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)     | 2020 - 2.5y |
-| Co-founded [EchelonDAO](https://coinmarketcap.com/currencies/echelon-dao/) (Liquidated)                                       | 2021 - 1.5y |
+| Launched [EchelonDAO](https://coinmarketcap.com/currencies/echelon-dao/)                                                      | 2021 - 1.5y |
 | Co-developed a Blockchain POC Testemant (Winning entry for the Investec Tech Challenge)                                       | 2021 - 4d   |
 | Researched AI art - Developed and trained a GAN of NNs to create CryptoPunks art.                                             | 2020 - 2w   |
 | Launched Twatter - A Twitter clone with Ethereum test-net integration.                                                        | 2020 - 1w   |
