@@ -1,20 +1,23 @@
 ![Working](https://github.com/wernervdm97/wernervdm97/blob/main/bg.jpeg?raw=true)
 
-### About me 👾
-- **Full-time:** Software and Scada Engineer for [NoSoft](https://github.com/NoSoft-SA)
-- **Nights & Weekends:** Building [VRFD](https://app.vrfd.info).
+## About me 👾
+### Work
+- **Full-Time:** Software and Scada Engineer @ [NoSoft](https://github.com/NoSoft-SA)
+- **Nights & Weekends:** Full-Stack Design & Dev of [VRFD](https://app.vrfd.info).
 
 ### Education 
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
 ### Notable Projects
-| Name                                                                                                                          | Time Period |
+| Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Master's Published Thesis - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)     | 2020 - 2.5y |
-| Launched [EchelonDAO](https://coinmarketcap.com/currencies/echelon-dao/)                                                      | 2021 - 1.5y |
-| Co-developed a Blockchain POC Testemant (Winning entry for the Investec Tech Challenge)                                       | 2021 - 4d   |
-| Researched AI art - Developed and trained a GAN of NNs to create CryptoPunks art.                                             | 2020 - 2w   |
-| Launched Twatter - A Twitter clone with Ethereum test-net integration.                                                        | 2020 - 1w   |
-| Bachelor's final year project - [Neural Networks for Language Model Smoothing.](https://wernervdm97.github.io/SKRIPSIE/)      | 2019 - 6m   |
-| Developed Javagario - An Agar.io java clone incorporating Neuton n-body physics simulations.                                  | 2017 - 3m   |
+| Master of Engineering - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)     | 2022 |
+| BSC Crypto Token - [$ECHO](https://coinmarketcap.com/currencies/echelon-dao/)                                                      | 2021 |
+| Co-developed Ethereum Will/Testemant  - Investec Tech Challenge Winner                                       | 2021 |
+| AI art - GAN of NNs trained on CryptoPunks                                            | 2020 |
+| Twitter Clone - Integrated with Ethereum Test-net.                                                        | 2020 |
+| Bachelor of Engineering - [Neural Networks for Language Model Smoothing.](https://wernervdm97.github.io/SKRIPSIE/)      | 2019 |
+| Digital Signal Processing | 2018 |
+| Electrical Design | 2018 |
+| Agar.io Java Clone - Neuton N-body Physics Engine.                                  | 2017 |
