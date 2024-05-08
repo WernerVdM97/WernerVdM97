@@ -10,6 +10,12 @@
 - BEng Electric and Electronic (Informatics)
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML   26 mins         █████████████████░░░░░░░░   68.58 %
+Ruby   12 mins         ████████░░░░░░░░░░░░░░░░░   31.42 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Notable Projects
