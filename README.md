@@ -9,6 +9,7 @@
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
+### Weekly Techstack Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
@@ -18,7 +19,7 @@ Ruby   12 mins         ████████░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Notable Projects
+### Notable Past Projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Master of Engineering - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)     | 2022 |
