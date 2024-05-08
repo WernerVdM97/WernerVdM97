@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### content
-          BLOCKS: ■□
+          BLOCKS: .💜
           CODE_LANG: ruby
           TIME_RANGE: last_year # optional
           SHOW_TOTAL: true # optional
