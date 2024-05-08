@@ -15,8 +15,8 @@
 ```ruby
 Total Time: 38 mins
 
-YAML   26 mins         oooooooooooooooooxxxxxxxx   68.58 %
-Ruby   12 mins         ooooooooxxxxxxxxxxxxxxxxx   31.42 %
+YAML   26 mins         □□□□□□□□□□□□□□□□□■■■■■■■■   68.58 %
+Ruby   12 mins         □□□□□□□□■■■■■■■■■■■■■■■■■   31.42 %
 ```
 
 <!--END_SECTION:waka-->
