@@ -9,6 +9,9 @@
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Notable Projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
