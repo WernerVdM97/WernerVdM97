@@ -15,8 +15,9 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### content
+          ### styling
           BLOCKS: 🖤💜
           CODE_LANG: ruby
-          TIME_RANGE: last_year # optional
-          SHOW_TOTAL: true # optional         
+          TIME_RANGE: last_year
+          SHOW_TOTAL: true 
+          SHOW_TIME: false 
