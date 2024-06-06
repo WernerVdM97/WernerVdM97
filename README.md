@@ -1,15 +1,17 @@
+# wassup 👋
+
 ![Working](https://github.com/wernervdm97/wernervdm97/blob/main/bg.jpeg?raw=true)
 
-## About me 👾
-### Work
-- **Full-Time:** Software and Scada Engineer @ [NoSoft](https://github.com/NoSoft-SA)
-- **Nights & Weekends:** Full-Stack Design & Dev of [VRFD](https://app.vrfd.info).
+## about me 👾
+### work
+- **Full Time:** HO Packhouse Engineering @ [NoSoft](https://github.com/NoSoft-SA)
+- **nights & weekends:** design & dev @ [VRFD](https://app.vrfd.info).
 
-### Education 
+### background 
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
-### Past Year
+### stack
 <!--START_SECTION:waka-->
 
 ```ruby
@@ -24,7 +26,7 @@ Markdown                     💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 
 <!--END_SECTION:waka-->
 
-### Notable Projects
+### past projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Master of Engineering - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)     | 2022 |
@@ -36,3 +38,11 @@ Markdown                     💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 | Digital Signal Processing | 2018 |
 | Electrical Design | 2018 |
 | Agar.io Java Clone - Neuton N-body Physics Engine.                                  | 2017 |
+
+--- 
+
+**loading...**
+
+---
+
+
