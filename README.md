@@ -1,8 +1,8 @@
-# wassup 👋
+# 👋 wassup
 
 ![Working](https://github.com/wernervdm97/wernervdm97/blob/main/bg.jpeg?raw=true)
 
-## about me 👾
+## 👾 about me
 ### work
 - **Full Time:** HO Packhouse Engineering @ [NoSoft](https://github.com/NoSoft-SA)
 - **nights & weekends:** design & dev @ [VRFD](https://app.vrfd.info).
@@ -41,6 +41,8 @@ Vue.js                       💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 
 --- 
 
+## keys
+### [KLOR by Werner](https://github.com/WernerVdM97/my-klor)
 **loading...**
 
 ---
