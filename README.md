@@ -42,7 +42,7 @@ Vue.js                       💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 --- 
 
 ## keys
-**[Loading KLORista](https://github.com/WernerVdM97/klorista)**
+[loading KLORista...](https://github.com/WernerVdM97/klorista)
 ---
 
 
