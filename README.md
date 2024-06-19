@@ -42,9 +42,7 @@ Vue.js                       💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 --- 
 
 ## keys
-### [KLOR by Werner](https://github.com/WernerVdM97/my-klor)
-**loading...**
-
+**[Loading KLORista](https://github.com/WernerVdM97/klorista)**
 ---
 
 
