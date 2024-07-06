@@ -2,12 +2,8 @@
 
 ![Working](https://github.com/wernervdm97/wernervdm97/blob/main/bg.jpeg?raw=true)
 
-## 👾 about me
-### work
-- **Full Time:** HO Packhouse Engineering @ [NoSoft](https://github.com/NoSoft-SA)
-- **nights & weekends:** design & dev @ [VRFD](https://app.vrfd.info).
-
-### background 
+### 👾 about me
+- HO Packhouse Engineering @ [NoSoft](https://github.com/NoSoft-SA)
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
@@ -29,8 +25,8 @@ Markdown                      💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 ### past projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Fullstack design & dev of [VRFD](https://app.vrfd.info) - the Ethereum Address Book                                          | 2023 |
 | Master of Engineering - [A Genetic Algorithm Based Model Tree Forest.](https://wernervdm97.github.io/Masters-Thesis/)     | 2022 |
-| BSC Crypto Token - [$ECHO](https://coinmarketcap.com/currencies/echelon-dao/)                                                      | 2021 |
 | Co-developed Ethereum Will/Testemant  - Investec Tech Challenge Winner                                       | 2021 |
 | AI art - GAN of NNs trained on CryptoPunks                                            | 2020 |
 | Twitter Clone - Integrated with Ethereum Test-net.                                                        | 2020 |
@@ -39,10 +35,11 @@ Markdown                      💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 | Electrical Design | 2018 |
 | Agar.io Java Clone - Neuton N-body Physics Engine.                                  | 2017 |
 
---- 
 
-## keys
-[loading KLORista...](https://github.com/WernerVdM97/klorista)
+### 🎹 custom keys
+
+[KLORista](https://github.com/WernerVdM97/klorista)
+
 ---
 
 
