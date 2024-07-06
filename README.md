@@ -2,12 +2,12 @@
 
 ![Working](https://github.com/wernervdm97/wernervdm97/blob/main/bg.jpeg?raw=true)
 
-### 👾 about me
+### 💁‍♂️ about me
 - HO Packhouse Engineering @ [NoSoft](https://github.com/NoSoft-SA)
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
-### stack
+### 👾 stack
 <!--START_SECTION:waka-->
 
 ```ruby
@@ -22,7 +22,7 @@ Markdown                      💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 
 <!--END_SECTION:waka-->
 
-### past projects
+### 📎 past projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Fullstack design & dev of [VRFD](https://app.vrfd.info) - the Ethereum Address Book                                          | 2023 |
