@@ -22,6 +22,10 @@ YAML                          💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 
 <!--END_SECTION:waka-->
 
+### 🎹 custom keys
+
+[KLORista](https://github.com/WernerVdM97/klorista)
+
 ### 📎 past projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -35,11 +39,5 @@ YAML                          💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 | Electrical Design | 2018 |
 | Agar.io Java Clone - Neuton N-body Physics Engine.                                  | 2017 |
 
-
-### 🎹 custom keys
-
-[KLORista](https://github.com/WernerVdM97/klorista)
-
----
 
 
