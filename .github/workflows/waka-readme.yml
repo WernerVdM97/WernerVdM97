@@ -21,4 +21,4 @@ jobs:
           TIME_RANGE: last_year
           SHOW_TOTAL: true 
           SHOW_TIME: false 
-          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: OTHER # optional
