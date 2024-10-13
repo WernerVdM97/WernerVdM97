@@ -7,7 +7,7 @@
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
-### 👾 stack
+### 👾 ytd stack
 <!--START_SECTION:waka-->
 
 ```ruby
