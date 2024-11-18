@@ -7,7 +7,7 @@
 - MEng Industrial Research (Data Science)
 - BEng Electric and Electronic (Informatics)
 
-### 👾 ytd stack
+### 👾 yearly stack
 <!--START_SECTION:waka-->
 
 ```ruby
@@ -37,6 +37,3 @@ YAML                            💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤
 | Bachelor of Engineering [Paper](https://wernervdm97.github.io/SKRIPSIE/)      | 2019 |
 | Digital Signal Processing & Electrical Design | 2018 |
 | Agar.io Java Clone - Neuton N-body Physics Engine.                                  | 2017 |
-
-
-
