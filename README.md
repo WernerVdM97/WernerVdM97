@@ -24,16 +24,16 @@ Other                              💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 
 ### 🎹 custom keys
 
-[KLORista](https://github.com/WernerVdM97/klorista)
+see [KLORista](https://github.com/WernerVdM97/klorista)
 
 ### 📎 past projects
 | Name                                                                                                                          | Year |
 |:------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Fullstack design & dev of [VRFD](https://app.vrfd.info)                                          | 2023 |
 | Master of Engineering [Thesis](https://wernervdm97.github.io/Masters-Thesis/)     | 2022 |
-| Co-developed Ethereum Will/Testemant  - Investec Tech Challenge Winner                                       | 2021 |
-| AI art - GAN of NNs trained on CryptoPunks                                            | 2020 |
-| Twitter Clone - Integrated with Ethereum Test-net.                                                        | 2020 |
+| Co-developed Ethereum [Testemant](https://github.com/WernerVdM97/Investec_TC)  - Investec Tech Challenge Winner                                       | 2021 |
+| First Principles AI [art](https://github.com/WernerVdM97/AIrt) - GAN of NNs trained on CryptoPunks                                            | 2020 |
+| Blockchain Twitter [Clone](https://github.com/WernerVdM97/BlockChainTwitter) - Integrated with Ethereum Test-net.                                                        | 2020 |
 | Bachelor of Engineering [Paper](https://wernervdm97.github.io/SKRIPSIE/)      | 2019 |
 | Digital Signal Processing & Electrical Design | 2018 |
-| Agar.io Java Clone - Neuton N-body Physics Engine.                                  | 2017 |
+| Agar.io Java [Clone](https://github.com/WernerVdM97/Javagario) - Neuton N-body Physics Engine.                                  | 2017 |
