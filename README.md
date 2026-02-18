@@ -24,7 +24,7 @@ Other                              💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤�
 
 ### 🎹 custom keys
 
-see [KLORista](https://github.com/WernerVdM97/klorista)
+see [KLORista](https://github.com/WernerVdM97/klorista) and [Chocorang](https://github.com/WernerVdM97/Chocorang44)
 
 ### 📎 past projects
 | Name                                                                                                                          | Year |
