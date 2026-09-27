@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-Total Time: 380 hrs 51 mins
+Total Time: 380 hrs 50 mins
 
 Markdown                                         💜💜💜💜💜💜💜💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤   30.74 %
 Ruby                                             💜💜💜💜💜💜🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤   22.23 %
